@@ -3,15 +3,17 @@ import "./Menu.css";
 
 export default function Menu() {
   return (
-    <ul className="menu">
+    <nav className="menu">
       <a className="menuItem" href="/">
         Home
       </a>
       <a className="menuItem" href="/fotos">
         Fotos
       </a>
-      <li className="menuItem">Informações</li>
+      <a className="menuItem" href="/info">
+        Informações
+      </a>
       <li className="menuItem">Reservar</li>
-    </ul>
+    </nav>
   );
 }

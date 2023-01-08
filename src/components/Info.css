@@ -1,0 +1,17 @@
+#titleInfo {
+  text-align: center;
+  color: #1E47FB;
+  margin: 20px;
+}
+
+.containerInfo {
+  margin: auto;
+  width: 300px;
+}
+
+
+.listItem {
+  margin-bottom: 10px;
+  list-style: none;
+  text-align: center;
+}
