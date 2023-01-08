@@ -1,0 +1,29 @@
+#titleFoto {
+  text-align: center;
+  margin: 20px;
+  color: #1E47FB;
+}
+
+.containerFotos {
+  display: block;
+  width: 300px;
+  margin: auto;
+}
+
+.fotos {
+  display: block;
+  margin: 15px auto;
+  border-radius: 30px;
+}
+
+#backFoto{
+  margin: 50px;
+  text-align: center;
+
+}
+
+#backFoto > a {
+  text-decoration: none;
+  color: #1E47FB;
+  font-family: 'Oswald', sans-serif;
+}

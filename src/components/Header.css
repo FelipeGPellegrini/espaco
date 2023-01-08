@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  background-image: linear-gradient(#9393f8, #1d1d91);
+}
+
+.logo{
+  padding: 15px;
+  transition: transform, 1s;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+}
+
+

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.containerText {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  align-items: center;
+  margin: 80px auto;
+  animation-name: floatText;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes floatText {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+  100% { transform: scale(1); }
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h1,h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+.contrastLight {
+  color: #19A3E3;
+}
+
+.contrastDark {
+  color: #1E47FB;
+}
+
+.containerImg {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.itemImg {
+  width: 100px;
+  padding: 10px;
+  border-radius:30px ;
+  transition:transform 1s;
+}
+
+.itemImg:hover {
+  transform: scale(1.4);
+}
+
+.telHome {
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}

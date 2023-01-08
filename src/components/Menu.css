@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.menu {
+  position: sticky;
+  top: 0;
+  display: flex;
+  padding: 5px;
+  list-style: none;
+  background-color: #1d1d91;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.menuItem {
+  text-decoration: none;
+  color: white;
+  margin: auto;
+}
