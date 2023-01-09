@@ -17,7 +17,9 @@ export default function Info() {
           <li className="listItem">2 Freezers</li>
           <li className="listItem">Wifi</li>
         </ul>
+        
       </div>
+
     </>
   );
 }
