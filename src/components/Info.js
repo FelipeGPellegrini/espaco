@@ -17,9 +17,10 @@ export default function Info() {
           <li className="listItem">2 Freezers</li>
           <li className="listItem">Wifi</li>
         </ul>
-        
-      </div>
 
+        <h2 className="contactItem">Contato</h2>
+        <p className="contactItem">📱 21 98340-7395</p>
+      </div>
     </>
   );
 }

@@ -13,7 +13,9 @@ export default function Menu() {
       <a className="menuItem" href="/info">
         Informações
       </a>
-      <li className="menuItem">Reservar</li>
+      <a className="menuItem" href="/reserva">
+        Reservar
+      </a>
     </nav>
   );
 }
