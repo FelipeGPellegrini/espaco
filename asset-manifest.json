@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/espaco/static/css/main.287fb3aa.css",
+    "main.js": "/espaco/static/js/main.46a2ce8b.js",
+    "static/media/Foto6.jpg": "/espaco/static/media/Foto6.40d304f0a0845d8593fb.jpg",
+    "static/media/Foto2.jpg": "/espaco/static/media/Foto2.ce6c4c53eba419f4946e.jpg",
+    "static/media/Foto3.jpg": "/espaco/static/media/Foto3.fd73caa5556c9ad713c8.jpg",
+    "static/media/Foto4.jpg": "/espaco/static/media/Foto4.f7b64f7009676a660f5c.jpg",
+    "static/media/Foto5.jpg": "/espaco/static/media/Foto5.2119087cf0563d9aee8a.jpg",
+    "static/media/Foto1.jpeg": "/espaco/static/media/Foto1.11aca92f6a1f376c3b40.jpeg",
+    "static/media/Logo.png": "/espaco/static/media/Logo.44a7b931efe2628567dd.png",
+    "index.html": "/espaco/index.html",
+    "main.287fb3aa.css.map": "/espaco/static/css/main.287fb3aa.css.map",
+    "main.46a2ce8b.js.map": "/espaco/static/js/main.46a2ce8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287fb3aa.css",
+    "static/js/main.46a2ce8b.js"
+  ]
+}
